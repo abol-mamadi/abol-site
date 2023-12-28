@@ -1,0 +1,270 @@
+.subscribe-button{
+  background-color: rgb(228, 24, 24);   
+color: white;
+border: none;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 8px;
+transition: opacity 0.22s;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 8px;
+padding-right: 8px;
+vertical-align: top;
+}
+
+.subscribe-button:hover{
+  opacity: 0.6;
+}
+.subscribe-button:active{
+  opacity: 0.4;
+}
+.join-button {
+  background-color: white;
+    border-color: rgb(41, 118, 211);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(41, 103, 211);
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.22s,
+    color 0.22s;
+    padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 8px;
+padding-right: 8px;
+}
+.join-button:hover{
+  background-color: rgb(41, 118, 211);
+  color: white;
+}
+
+.join-button:active{
+opacity: 0.7;
+}
+
+.Tweet-button{
+  background-color: rgb(0, 179, 255);
+  color: white;
+  border: none;
+ 
+  border-radius: 16px;
+  font-weight: bold;
+  font-size: 13px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: box-shadow 0.20s;
+  padding-top: 5px;
+padding-bottom: 5px;
+padding-left: 8px;
+padding-right: 8px;
+}
+.Tweet-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+}
+
+.Uber-button{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border: none;
+  margin-right: 8px;
+  padding-left: 5px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.Addtocart-button{
+  background-color: rgb(255, 216, 20);
+  color: black;
+  height: 24px;
+  width: 129px;
+  border-radius: 18px;
+  border: none;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.22s,
+    
+}
+.Addtocart-button:hover{
+  background-color: rgb(255, 224, 20);
+  opacity: 0.6;
+}
+.Addtocart-button:active{
+  opacity: 0.6;
+}
+.Github-button{
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 30px;
+  width: 75px;
+  border-radius: 3px;
+  border: none;
+  font-weight: bold;
+  margin-right: 8px;
+  cursor: pointer;
+transition: box shadow 0.20s;
+}
+.Github-button:hover{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.20);
+}
+.bootstrap-button{
+  background-color: rgb(121, 82, 179);
+  color: white;
+  height: 30px;
+  width: 85px;
+  border-radius: 2px;
+  border: none;
+  cursor: pointer;
+  margin-right: 5px;
+}
+  .Download-button{
+  background-color: white;
+  color: rgb(108, 117, 125);
+  height: 30px;
+  width: 85px;
+  border-radius: 2px;
+  border-width: 1px;
+  font-weight: bold;
+  margin-right: 8px;
+  cursor: pointer;
+  border-color: rgb(108, 117, 125);
+  border-style: solid;
+  margin-right: 8px;
+  transition: background-color 0.22s,
+    color 0.22s;
+  }
+.Download-button:hover{
+  background-color: rgb(108, 117, 125);
+  color: white;
+}
+.Download-button:active{
+  opacity: 0.7s;
+}
+.save-button{
+  background-color: white;
+  color: rgb(10, 102, 194);
+  height: 30px;
+  width: 60px;
+  border-radius: 14px;
+  border-width: 1px;
+  font-weight: bold;
+  cursor: pointer;
+border-color: rgb(10, 102, 194);
+border-style: solid;
+margin-right: 8px;
+transition: backgrand-color 0.22s;
+ color: 0.22;
+}
+.save-button:hover{
+  background-color: rgb(10, 102, 194);
+  color: white;
+}
+.save-button:active{
+  opacity: 0.7s;
+}
+.amazon-button{
+  color: rgb(0, 113, 133);
+ transition:  background-color 0.22s;
+ color: 0.25s;
+}
+.amazon-button:hover{
+  color: brown;
+}
+.amazon-button:active{
+  opacity: 0.1s;
+}
+.nike-button{
+  font-weight: bolder;
+}
+
+.stretch-button{
+  background-color: green;
+  color: white;
+  margin-top: 8px;
+  margin-right: 8px;
+  margin-left: 8px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  border: none;
+  transition: padding 0.40s;
+  cursor: pointer;
+  color: 1s;
+}
+.stretch-button:hover{
+padding-left: 9px;
+  padding-bottom: 4px;
+  padding-right: 9px;
+  padding-top: 4px;
+}
+.stretch-button:active{
+  opacity: 0.6S;
+}
+
+.one-button{
+background-color: green;
+color: white;
+margin-top: 8px;
+  margin-right: 8px;
+  margin-left: 5px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  border: none;
+  transition: padding 0.40s;
+  cursor: pointer;
+  color: 1s;
+}
+.one-button:hover{
+  padding-left: 7px;
+  padding-right: 7px;
+
+}
+.one-button:active{
+  opacity: 0.5s;
+}
+.two-button{
+  background-color: green;
+color: white;
+margin-top: 8px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  border: none;
+  transition: padding 0.40s;
+  cursor: pointer;
+  color: 1s;
+}
+.two-button:hover{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.two-button:active{
+opacity: 0.5s;
+}
+
+.three-button{
+  background-color: rgb(128, 0, 0);
+color: white;
+margin-top: 8px;
+  margin-right: 5px;
+  margin-left: 5px;
+  padding-left: 5px;
+  padding-bottom: 4px;
+  padding-right: 4px;
+  border: none;
+  transition: padding 0.40s;
+  cursor: pointer;
+  color: 1s;
+}
+.three-button:hover{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.three-button:active{
+  opacity: 0.5s;
+}
+
